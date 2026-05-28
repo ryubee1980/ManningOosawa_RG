@@ -11,5 +11,7 @@
 *.run.xml
 *.synctex.gz
 *.toc
-*.txt
+t.txt
+u.txt
+xi_R.txt
 .DS_Store
