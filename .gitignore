@@ -1,3 +1,4 @@
+# LaTeX
 *.aux
 *.bbl
 *.bbl-SAVE-ERROR
@@ -11,7 +12,31 @@
 *.run.xml
 *.synctex.gz
 *.toc
+
+# latexmk
+*.dvi
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# bibliography
+*.bib.bak
+
+# editor
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# simulation output
 t.txt
 u.txt
 xi_R.txt
-.DS_Store
+
